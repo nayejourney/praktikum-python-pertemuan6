@@ -1,0 +1,71 @@
+{
+    "total_pengguna": 10,
+    "nama_pengguna": [
+        "Leanne Graham",
+        "Ervin Howell",
+        "Clementine Bauch",
+        "Patricia Lebsack",
+        "Chelsey Dietrich",
+        "Mrs. Dennis Schulist",
+        "Kurtis Weissnat",
+        "Nicholas Runolfsdottir V",
+        "Glenna Reichert",
+        "Clementina DuBuque"
+    ],
+    "pengguna_email_biz": [
+        {
+            "nama": "Leanne Graham",
+            "email": "Sincere@april.biz"
+        },
+        {
+            "nama": "Kurtis Weissnat",
+            "email": "Telly.Hoeger@billy.biz"
+        },
+        {
+            "nama": "Clementina DuBuque",
+            "email": "Rey.Padberg@karina.biz"
+        }
+    ],
+    "pengguna_urut": [
+        {
+            "nama": "Chelsey Dietrich",
+            "email": "Lucio_Hettinger@annie.ca"
+        },
+        {
+            "nama": "Clementina DuBuque",
+            "email": "Rey.Padberg@karina.biz"
+        },
+        {
+            "nama": "Clementine Bauch",
+            "email": "Nathan@yesenia.net"
+        },
+        {
+            "nama": "Ervin Howell",
+            "email": "Shanna@melissa.tv"
+        },
+        {
+            "nama": "Glenna Reichert",
+            "email": "Chaim_McDermott@dana.io"
+        },
+        {
+            "nama": "Kurtis Weissnat",
+            "email": "Telly.Hoeger@billy.biz"
+        },
+        {
+            "nama": "Leanne Graham",
+            "email": "Sincere@april.biz"
+        },
+        {
+            "nama": "Mrs. Dennis Schulist",
+            "email": "Karley_Dach@jasper.info"
+        },
+        {
+            "nama": "Nicholas Runolfsdottir V",
+            "email": "Sherwood@rosamond.me"
+        },
+        {
+            "nama": "Patricia Lebsack",
+            "email": "Julianne.OConner@kory.org"
+        }
+    ]
+}
