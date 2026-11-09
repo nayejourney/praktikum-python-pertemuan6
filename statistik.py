@@ -16,7 +16,7 @@ def hitung_statistik(data):
         "standard_deviation": statistics.pstdev(data)
     }
 
-
+s
 if __name__ == "__main__":
     nilai = [80, 85, 90, 80, 95, 70]
     hasil = hitung_statistik(nilai)
